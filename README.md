@@ -16,12 +16,12 @@ I'm a 23-year-old developer with a passion for coding and technology. In my free
 
 ## 📫 How to reach me
 
-- LinkedIn: [Jonas Johansen]([https://www.linkedin.com/in/<your-linkedin-username](https://www.linkedin.com/in/jonas-j-572a8b245/)>/)
+- LinkedIn: [Jonas Johansen](https://www.linkedin.com/in/jonas-j-572a8b245/)
 - Email: [Jonasandrejohansen2@gmail.com](mailto:Jonasandrejohansen2@gmail.com)
 
 ## 🌱 What I'm currently learning
 
-I'm currently expanding my knowledge in advanced React and exploring the depths of serverless architecture with AWS.
+I'm currently expanding my knowledge in advanced React and exploring the depths of serverless architecture with AWS. I'm also learning Next.js on a deeper level, focusing on its advanced features and best practices.
 
 ## 🚀 Projects
 
