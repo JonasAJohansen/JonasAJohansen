@@ -21,7 +21,7 @@ I'm a 23-year-old developer with a passion for coding and technology. In my free
 
 ## 🌱 What I'm currently learning
 
-I'm currently expanding my knowledge in advanced React and exploring the depths of serverless architecture with AWS. I'm also learning Next.js on a deeper level, focusing on its advanced features and best practices.
+I'm currently expanding my knowledge in React and exploring serverless architecture with AWS. I'm also learning Next.js on a deeper level, focusing on its features and best practices.
 
 ## 🚀 Projects
 
