@@ -1,6 +1,6 @@
 # Hi there, I'm <Your Name> 👋
 
-I'm a 23-year-old developer with a passion for coding and technology. In my free time, I love experimenting with and building projects using the MERN stack (MongoDB, Express.js, React, Node.js) and Next.js. I'm always looking for new challenges and ways to improve my skills.
+I'm a 24-year-old developer with a passion for coding and technology. In my free time, I love experimenting with and building projects using the MERN stack (MongoDB, Express.js, React, Node.js) and Next.js. I'm always looking for new challenges and ways to improve my skills.
 
 ## 🛠 Technologies & Tools
 
